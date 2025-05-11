@@ -12,7 +12,6 @@ Before you can run the MCP server, ensure you have the following installed:
 
 1.  **Java Development Kit (JDK)**: Version 21 or higher (as specified in your launch command). You can download it from [Oracle JDK](https://www.oracle.com/java/technologies/downloads/) or [OpenJDK](https://openjdk.java.net/).
 2.  **The MCP Server JAR file**: `mcp-0.0.1-SNAPSHOT.jar` (or the latest version you've built).
-3.  **An Orchestration Tool/Script**: A system or script capable of reading the JSON configuration (like the example you provided) and executing the defined command.
 
 
 ### Launch Configuration (JSON)
